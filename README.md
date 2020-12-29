@@ -1,4 +1,4 @@
-# Website Alpha
+# Gatsby Starter Template
 
 ## Requirements
 
@@ -8,6 +8,9 @@ This project utilizes:
 - `node`
 - `git`
 - `gatsby-cli`
+- `styled-components`
+- `tailwind CSS` (with `twin.macro`)
+- `eslint` (airBNB style guide)
 
 ### Installation
 
